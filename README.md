@@ -1,2 +1,0 @@
-# Codeant
- Codeant Ai assignment

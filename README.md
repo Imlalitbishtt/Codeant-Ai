@@ -1,4 +1,4 @@
-# Code and AI Assignment: Signup Page and Repository Page
+# Codeant AI Assignment: Signup Page and Repository Page
 
 This repository contains the solution to the assignment given in the Code and AI course. The assignment involves creating a signup page and a repository page. These pages are essential components for building a basic user interface for managing user registrations and displaying repositories.
 
